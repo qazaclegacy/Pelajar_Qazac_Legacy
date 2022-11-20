@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+gender-guesser = "*"
+matplotlib = "*"
+seaborn = "*"
+xmltodict = "*"
+urllib3 = "*"
+streamlit-lottie = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
